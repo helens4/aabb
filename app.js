@@ -9,3 +9,5 @@ if (a === "kot") {
 }
 
 const arr = ['jan', 'ewa', 'zuzia', 'ula', 'stefan']
+
+arr.forEach(name => console.log(name))
