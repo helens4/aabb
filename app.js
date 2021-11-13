@@ -7,3 +7,5 @@ if (a === "kot") {
 } else {
     console.log('piesek')
 }
+
+const arr = ['jan', 'ewa', 'zuzia', 'ula', 'stefan']
