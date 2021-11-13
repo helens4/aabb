@@ -8,6 +8,6 @@ if (a === "kot") {
     console.log('piesek')
 }
 
-const arr = ['jan', 'ewa', 'zuzia', 'ula', 'stefan']
+const arr = ['jan', 'ewa', 'halina', 'ula', 'stefan']
 
 arr.forEach(name => console.log(name))
