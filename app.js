@@ -1,1 +1,3 @@
-console.log('witaj swiecie')
+console.log('witaj zimo')
+
+const a = "kot"
